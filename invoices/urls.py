@@ -1,5 +1,7 @@
 from django.urls import path
-from . import views
+
+from invoices import views
+
 
 urlpatterns = [
     # # # DEFAULT
