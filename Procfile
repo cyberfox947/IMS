@@ -1,0 +1,1 @@
+web: gunicorn InvoiceManagementSystem.wsgi --log-file -
